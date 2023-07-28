@@ -547,8 +547,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43c82e5c69e77b946b5abe3c6c69037f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MyObject: {fileID: 0}
-  RaycastManager: {fileID: 0}
+  MyObject: {fileID: 30563259085004586, guid: 41c39720a07b5a54b9e6bbf7e122aa16, type: 3}
+  RaycastManager: {fileID: 2082061825}
 --- !u!4 &1121576181
 Transform:
   m_ObjectHideFlags: 0
